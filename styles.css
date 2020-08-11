@@ -1,26 +1,23 @@
-.TopContainer{
-  background-color: #fce8d5;
-text-align: center;
-height: 300px;
-padding-top: 130px;
-text-shadow: 2px 2px red;
-
-
+body{
+  margin: 0;
 }
-/*hr{
 
-   border-color: red;
-   border-width: thick;
-  border-style: dotted none none none;
-display: inline;
-  width: 10%;
-}*/
+.TopContainer{
+  background-color: #32e0c4;
+text-align: center;
+height: 100px;
+padding-top: 30px;
+text-shadow: 2px 2px red;
+}
+
+
+
 .shahjee{
 display: inline;
 color: #581c0c;
 text-decoration-color: initial;
-
 }
+
 #first {
   display: inline;
  position: absolute;
@@ -41,9 +38,7 @@ text-decoration-color: initial;
   border-width: thick;
   border-style: dotted none none none;
 }
-body{
-  margin: 0;
-}
+
 .MiddleContainer{
 margin-left: 300px;
       width: 260px;
